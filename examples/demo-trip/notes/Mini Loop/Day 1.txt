@@ -1,0 +1,28 @@
+1. Home - Starting Point
+  - pin: 14.5995, 120.9842
+  - Start ride: 5:00 AM
+
+2. Tagaytay Viewpoint. Taal Volcano sunrise
+  - 62km from previous
+  - Arrived at 7:10 AM
+  - pin: 14.1153, 120.9621
+
+3. Batangas Port
+  - 48km from previous
+  - Arrived at 8:40 AM
+  - pin: 13.7565, 121.0437
+
+4. Ferry onboard
+
+5. Calapan Port
+  - 0 km from previous (ferry)
+  - Arrived at 11:30 AM
+  - pin: 13.4234, 121.1930
+
+6. Beach Hotel, Puerto Galera
+  - 52km from previous
+  - Arrived: 1:20 PM
+  - pin: 13.5003, 120.9540
+
+Notes:
+This is a sample trip with made-up photos.

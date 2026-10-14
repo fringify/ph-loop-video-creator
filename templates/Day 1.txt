@@ -1,0 +1,23 @@
+1. Home - Starting Point
+  - pin: 14.5995, 120.9842
+  - Start ride: 5:00 AM
+
+2. Breakfast stop
+  - 45km from previous
+  - Arrived at 6:10 AM
+  - https://maps.app.goo.gl/your-link-here
+
+3. Ferry onboard
+
+4. Island port
+  - Arrived at 10:30 AM
+  - pin: 13.4234, 121.1930
+
+5. Hotel for the night
+  - 32km from previous
+  - Arrived: 4:45 PM
+  - pin: 13.5003, 121.0280
+
+Notes:
+Write the story of the day here. It is kept for reference;
+the short version shown in the video goes in story.json under "days".

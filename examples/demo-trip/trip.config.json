@@ -1,0 +1,30 @@
+{
+  "title": "MINI LOOP",
+  "tagline": "TWO RIDERS · ONE SCOOTER",
+  "region": "Batangas & Mindoro",
+  "completeTitle": "LOOP COMPLETE",
+  "closing": "Until the next ride! 🏍️",
+  "timezone": "+08:00",
+  "targetMinutes": 3,
+  "vehicle": { "type": "scooter", "color": "#3d4650", "accent": "#2f7dd1" },
+  "riders": [
+    { "look": "male", "jacket": "#1f2a36", "pants": "#25344f", "helmet": "#1f2a36" },
+    { "look": "female", "jacket": "#b03a6b", "pants": "#2f3e66", "helmet": "#e9edf1", "hair": "#4a2c1a" }
+  ],
+  "loops": [{ "name": "Mini Loop", "dates": "Jan 10 – 11, 2026", "color": "#ff7a1a" }],
+  "intro": [],
+  "finish": {
+    "subtitle": "PROOF OF COMPLETION",
+    "title": "Mini Loop Finisher",
+    "items": [
+      { "file": "medal.jpg", "caption": "Finisher medal" },
+      { "file": "shirt.jpg", "caption": "Finisher shirt" }
+    ]
+  },
+  "sample": { "loop": "Mini Loop", "day": "Day 1" },
+  "services": {
+    "osrm": "https://router.project-osrm.org",
+    "nominatim": "https://nominatim.openstreetmap.org",
+    "contact": ""
+  }
+}

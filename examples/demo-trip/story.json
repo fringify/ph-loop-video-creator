@@ -1,0 +1,16 @@
+{
+  "days": {
+    "Mini Loop / Day 1": "Early start from Manila, sunrise over Taal in Tagaytay, then the RORO from Batangas to Calapan. Beach time in Puerto Galera by lunch!",
+    "Mini Loop / Day 2": "Back across the strait, a strong cup of kapeng barako in Lipa, and home before dark. Short loop, big smiles."
+  },
+  "moments": {
+    "Mini Loop / Day 1 / 3": "First time on a RORO!"
+  },
+  "banners": {
+    "Mini Loop / Day 1 / 5": "Hello, MINDORO!"
+  },
+  "emoji_legs": {
+    "Mini Loop / Day 2 / 6": ["🏍️", "💨", "☀️", "🌴", "🙏🏻"]
+  },
+  "time_fixes": {}
+}

@@ -1,0 +1,24 @@
+1. Beach Hotel, Puerto Galera
+  - pin: 13.5003, 120.9540
+  - Start ride: 8:00 AM
+
+2. Calapan Port
+  - 52km from previous
+  - Arrived at 9:45 AM
+  - pin: 13.4234, 121.1930
+
+3. Ferry onboard
+
+4. Batangas Port
+  - Arrived at 1:00 PM
+  - pin: 13.7565, 121.0437
+
+5. Coffee stop, Lipa. Kapeng barako!
+  - 30km from previous
+  - Arrived: 1:50 PM
+  - pin: 13.9411, 121.1631
+
+6. Home Sweet Home
+  - 85km from previous
+  - Arrived: 4:30 PM
+  - pin: 14.5995, 120.9842

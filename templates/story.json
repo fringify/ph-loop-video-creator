@@ -1,0 +1,16 @@
+{
+  "_help": "Keys look like 'Loop name / Day folder' (days) or 'Loop name / Day folder / stop number' (the rest). See docs/FORMAT.md.",
+  "days": {
+    "Loop / Day 1": "A few lines about the day. Shown at the end of the day next to all its photos."
+  },
+  "moments": {
+    "Loop / Day 1 / 2": "A short note shown under the stop name"
+  },
+  "banners": {
+    "Loop / Day 1 / 4": "Welcome to the island!"
+  },
+  "emoji_legs": {
+    "Loop / Day 1 / 5": ["🏍️", "💨", "☀️", "🌴"]
+  },
+  "time_fixes": {}
+}

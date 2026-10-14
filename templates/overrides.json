@@ -1,0 +1,4 @@
+{
+  "_help": "Fix individual stops. Key = 'Loop name / Day folder / stop number'. Fields: title, pos [lat, lon], pos_from_file (use that photo's GPS), leg: \"sea\" (straight ferry crossing into this stop), skip: true",
+  "_example: Loop / Day 1 / 3": { "title": "Better name", "pos": [13.75, 121.05] }
+}
